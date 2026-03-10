@@ -9,6 +9,7 @@ package("llmapi")
         "https://github.com/mcpplibs/llmapi.git"
     )
 
+    add_versions("0.2.2", "014385091f4e9b84d42a6e00b8259552497949223d95c03558003bbb0990d904")
     add_versions("0.2.1", "d48f0bd6b6186aac91f5a26e9a20bc59014f396e7589cf8a52dfd6790de31dab")
     add_versions("0.2.0", "2969d573cf50563159f74ac0a65ccaa05db86a5becf4786de6d6daeef8012d90")
     add_versions("0.1.0", "f01f5b0b6d11242b655f7c383e82a71e30a7696cdf4468d7ab3a3ae72f99b3e5")
