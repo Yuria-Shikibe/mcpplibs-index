@@ -1,12 +1,12 @@
 package("mcpplibs-xpkg")
 
-    set_homepage("https://github.com/Sunrisepeak/libxpkg")
+    set_homepage("https://github.com/openxlings/libxpkg")
     set_description("C++23 reference implementation of the xpkg package specification")
     set_license("MIT")
 
     add_urls(
-        "https://github.com/Sunrisepeak/libxpkg/archive/refs/tags/v$(version).tar.gz",
-        "https://github.com/Sunrisepeak/libxpkg.git v$(version)"
+        "https://github.com/openxlings/libxpkg/archive/refs/tags/v$(version).tar.gz",
+        "https://github.com/openxlings/libxpkg.git v$(version)"
     )
 
     add_versions("0.0.31", "99ed585238c2f9f38fb7ebffc1ed61f30a5ea4a10a307032a8d3023d94a00da6")
